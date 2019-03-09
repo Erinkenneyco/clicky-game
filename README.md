@@ -1,4 +1,4 @@
-The Muppet Clicky Game
+#The Muppet Clicky Game
 
 
 Overview
