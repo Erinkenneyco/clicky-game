@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/fozziebear.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/wrinkle4.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/muppets-png-reporter-kermit-1-png-550.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/main-miss-piggy.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/05d5df9ce5febb251e971f0f85184dbf.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/514976_thumb.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/Trump+Muppet.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/Scooter-1.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/587b4dbd44060909aa603a68.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/220px-Pepe_the_King_Prawn_(Muppet).jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/e2720-rizzo.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/beaker-muppet-png-17.png",
+      "clicked": false
+    }
+  ]
+  
