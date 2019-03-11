@@ -41,4 +41,5 @@ The NavMessage is where the scoring and the rendering messages are created with 
 Footer also holds the App name as well as the React logo.
 
 The Muppet Clicky Game can be found on Heroku [here](https://limitless-bayou-59747.herokuapp.com/)
+
 The Muppet Clicky Game Designer and Programmer: Erin Kenney 
